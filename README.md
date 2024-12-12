@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 
 [![Phlarx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-leschinsky&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-leschinsky&layout=default&theme=dark&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-leschinsky&layout=compact&theme=dark&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
--->
-### Pinned repositories:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-leschinsky&repo=taketo-go)](https://github.com/anuraghazra/github-readme-stats)
